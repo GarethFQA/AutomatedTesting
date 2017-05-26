@@ -1,0 +1,2 @@
+LoginTest.java was used during initial researching, learning and creation of POMs and the methodoly, commented out as not used for final submission but leaving code behind if required for assessment purposes
+phpTravelsTest.java is the junit test class used to leverage the POM tests, test userflows on website and create extent reports
